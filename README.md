@@ -1,7 +1,8 @@
 # Chun Li's Resume
 ## Education
 ### University of Pittsburgh 
-Ph.D. Student; Information Science; 2023-
+Ph.D. Student; Information Science; 2023-current
+
 [Learning and Development Center](https://www.lrdc.pitt.edu/)
 ### University of Washington
 Master of Library and Information Science; 2019-2021
