@@ -29,7 +29,7 @@ Java, Python
 
 2 medium green zucchinis,
 
-1 cup of wheat flour/gluten floor,
+1 cup of all-purpose wheat flour,
 
 3 medium eggs,
 
